@@ -3,4 +3,4 @@
 - Meu nome é Yasmin Banck
 
 - Estou estudando no alura
-- Estou medesenvolvendo 
+- Estou medesenvolvendo na linguagem javascript 
